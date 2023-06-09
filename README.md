@@ -1,2 +1,1 @@
-# Local-Repo
-repository made during shaolin AI week 1
+this is a test
